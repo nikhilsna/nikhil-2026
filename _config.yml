@@ -60,4 +60,6 @@ header_pages:
   - _notebooks/hw/
   - _notebooks/csafrq2019q4/
   - /notebook/csafrq2017q1/
+  - /notebook/srp/
+  - /notebook/rpncalc/
   - README4YML.md
